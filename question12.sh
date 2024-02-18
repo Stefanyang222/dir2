@@ -1,4 +1,3 @@
 git checkout branch2
-git checkout -- file4.txt
+git add file4
 git commit -m "Restore uncommitted changes to file4"
-
